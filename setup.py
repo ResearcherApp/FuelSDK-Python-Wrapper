@@ -16,10 +16,8 @@ setup(
     url='https://github.com/seb-angel/FuelSDK-Python-Wrapper',
     license='MIT',
     install_requires=[
-        'Salesforce-FuelSDK>=1.3.0',
         'PyJWT>=0.1.9',
-        'requests>=2.18.4',
-        'suds-jurko>=0.6'
+        'requests>=2.18.4'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',

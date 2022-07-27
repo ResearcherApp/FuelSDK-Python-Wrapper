@@ -1,4 +1,4 @@
-git+https://github.com/ResearcherApp/FuelSDK-Python.git
+Salesforce-FuelSDK-Sans
 PyJWT>=0.1.9
 requests>=2.18.4
 suds-community>=1.1.2
